@@ -1,0 +1,22 @@
+{
+  "name": "@bloki/indexer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/start.js",
+  "scripts": {
+    "start": "node dist/start.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "cbor": "^9.0.2",
+    "level": "^8.0.1"
+  }
+}
