@@ -2,7 +2,7 @@
   "name": "@bloki/indexer",
   "version": "0.1.0",
   "description": "",
-  "main": "dist/start.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "node dist/start.js",
     "build": "tsc"
